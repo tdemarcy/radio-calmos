@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Ranchers');
+
+body {
+  background: linear-gradient(to right top, #eceff4, #e3e8fa, #dfe0ff, #e1d6ff, #e9caff, #e0c6ff, #d6c3ff, #ccc0ff, #afc3fb, #98c4f0, #8bc3e1, #88c0d0) fixed;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  }
+
+h1 {
+  font-family: 'Ranchers';
+  font-size: 3.6em;
+}
